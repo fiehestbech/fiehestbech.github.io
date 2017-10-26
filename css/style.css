@@ -1,0 +1,43 @@
+/*MENUEN*/
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+nav li {
+    float: left;
+}
+
+nav li a {
+    display: inline;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav li a:hover {
+    background-color: #111;
+}
+
+
+/*UNDER MENUEN - RESTEN AF SIDEN*/
+
+.wrapper {width:90%;
+margin:0 auto;}
+
+
+
+/*LOGOBILLEDE*/
+
+header{
+    width:100 %;
+    min-height: 100px;
+}
+
+body {background-color: rgb(244, 230, 237);}
+h1{font-family: arial}
+    p{font-family: calibri;}
